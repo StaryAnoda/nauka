@@ -24,7 +24,7 @@
 `CTRL + \` - Zduplikuj otwary plik w nowym oknie. \
 `ALT + Z` - Zawijanie wierszy. \
 `CTRL + SHIFT + K` - Usuń linię. \
-`ALT + SHIFT STRZAŁKA GÓRA DÓŁ` - Duplikuj linię. \
+`ALT + SHIFT + STRZAŁKA GÓRA DÓŁ` - Duplikuj linię. \
 `CTRL + SHIFT + ENTER` - Nowa linia powyżej. \
 
 `SHIFT + HOME` - Zaznacz calą linię (Gdy kursor na końcu tej linii). \
