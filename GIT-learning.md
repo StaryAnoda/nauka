@@ -12,3 +12,5 @@
 `git checkout SHA -- file.txt` - Cofnij plik file.txt do rewizji SHA \
 `git commit -m "TEST" -n` - Zrób commit z pominięciem pre commit hooka \
 `git clone --depth=1 --branch NAME Repo-Link` - Klonuj repozytorium z jednym commitem. \
+`git blame README.md` \
+`git blame -L 1,5 README.md`
